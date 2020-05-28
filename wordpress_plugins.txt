@@ -1,6 +1,3 @@
-wp-content/plugins/%e2%98%85-wpsymbols-%e2%98%85/readme.txt
-wp-content/plugins/%e5%94%90%e8%af%97%e5%ae%8b%e8%af%8dchinese-poem/readme.txt
-wp-content/plugins/%e5%9b%be%e7%89%87%e7%ad%be%e5%90%8d%e6%8f%92%e4%bb%b6/readme.txt
 wp-content/plugins/03talk-community-conference/readme.txt
 wp-content/plugins/1-bit-audio-player/readme.txt
 wp-content/plugins/1-blog-cacher/readme.txt
